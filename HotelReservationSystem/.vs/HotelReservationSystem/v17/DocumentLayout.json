@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|c:\\users\\user\\desktop\\aastmt\\year 2\\semester 2\\projects\\hotelreservationsystem\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\displayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:displayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\reservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:reservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\reservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:reservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\seaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:seaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\displayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:displayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HotelReservationSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\displayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:displayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\poolview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:poolview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\gardenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:gardenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\reservationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:reservationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\Program[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE0AB63-0577-47EA-BB3E-03A3BE737F6B}|HotelReservationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\hotel[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\PoolView[2].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\B8DG1JL5\\Program[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\G6Z7YTV6\\GardenView[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\B8DG1JL5\\Customer[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\PoolView[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\ReservationForm.cs",
+              "RelativeDocumentMoniker": "ReservationForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\ReservationForm.cs",
+              "RelativeToolTip": "ReservationForm.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAANYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\ReservationForm.cs",
+              "RelativeDocumentMoniker": "ReservationForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\ReservationForm.cs [Design]",
+              "RelativeToolTip": "ReservationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "customerform.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\customerform.cs",
+              "RelativeDocumentMoniker": "customerform.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\customerform.cs",
+              "RelativeToolTip": "customerform.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "displayform.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\displayform.cs",
+              "RelativeDocumentMoniker": "displayform.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\displayform.cs",
+              "RelativeToolTip": "displayform.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "checkoutform.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\checkoutform.cs",
+              "RelativeDocumentMoniker": "checkoutform.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\checkoutform.cs",
+              "RelativeToolTip": "checkoutform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Hotel.cs",
+              "RelativeDocumentMoniker": "Hotel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Hotel.cs",
+              "RelativeToolTip": "Hotel.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAACkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Reservation.cs",
+              "RelativeDocumentMoniker": "Reservation.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Reservation.cs",
+              "RelativeToolTip": "Reservation.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeaView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\SeaView.cs",
+              "RelativeDocumentMoniker": "SeaView.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\SeaView.cs",
+              "RelativeToolTip": "SeaView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "displayform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\displayform.cs",
+              "RelativeDocumentMoniker": "displayform.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\displayform.cs [Design]",
+              "RelativeToolTip": "displayform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "customerform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\customerform.cs",
+              "RelativeDocumentMoniker": "customerform.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\customerform.cs [Design]",
+              "RelativeToolTip": "customerform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "customerform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\customerform.Designer.cs",
+              "RelativeDocumentMoniker": "customerform.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\customerform.Designer.cs",
+              "RelativeToolTip": "customerform.Designer.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAgwMAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "checkoutform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\checkoutform.cs",
+              "RelativeDocumentMoniker": "checkoutform.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\checkoutform.cs [Design]",
+              "RelativeToolTip": "checkoutform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotelReservationSystem",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\HotelReservationSystem.csproj",
+              "RelativeDocumentMoniker": "HotelReservationSystem.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\HotelReservationSystem.csproj",
+              "RelativeToolTip": "HotelReservationSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T07:44:40.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "displayform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\displayform.Designer.cs",
+              "RelativeDocumentMoniker": "displayform.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\displayform.Designer.cs",
+              "RelativeToolTip": "displayform.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAEsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-17T11:02:49.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PoolView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\PoolView.cs",
+              "RelativeDocumentMoniker": "PoolView.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\PoolView.cs",
+              "RelativeToolTip": "PoolView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GardenView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\GardenView.cs",
+              "RelativeDocumentMoniker": "GardenView.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\GardenView.cs",
+              "RelativeToolTip": "GardenView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReservationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\ReservationForm.Designer.cs",
+              "RelativeDocumentMoniker": "ReservationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\ReservationForm.Designer.cs",
+              "RelativeToolTip": "ReservationForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program[1].cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\Program[1].cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\Program[1].cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\Program[1].cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\Program[1].cs [Read Only]",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:19:37.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AASTMT\\Year 2\\Semester 2\\Projects\\HotelReservationSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:49.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PoolView[2].cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\PoolView[2].cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\PoolView[2].cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\PoolView[2].cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\PoolView[2].cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:34:54.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "hotel[1].cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\hotel[1].cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\hotel[1].cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\hotel[1].cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\hotel[1].cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:34:22.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program[1].cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\B8DG1JL5\\Program[1].cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\B8DG1JL5\\Program[1].cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\B8DG1JL5\\Program[1].cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\B8DG1JL5\\Program[1].cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:34:12.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Customer[1].cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\B8DG1JL5\\Customer[1].cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\B8DG1JL5\\Customer[1].cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\B8DG1JL5\\Customer[1].cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\B8DG1JL5\\Customer[1].cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:34:35.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GardenView[1].cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\G6Z7YTV6\\GardenView[1].cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\G6Z7YTV6\\GardenView[1].cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\G6Z7YTV6\\GardenView[1].cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\G6Z7YTV6\\GardenView[1].cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:34:31.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PoolView[1].cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\PoolView[1].cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\PoolView[1].cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\PoolView[1].cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Asus\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\5JSGMJGN\\PoolView[1].cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:33:41.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
